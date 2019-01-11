@@ -1,0 +1,1 @@
+# git_mean_assignment
